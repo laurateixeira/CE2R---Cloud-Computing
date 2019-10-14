@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571071280750.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1160552136",
+    "id" : "F6675CBE",
+    "lastKnownWriteTime" : 1571071352,
+    "last_content_update" : 1571071352676,
+    "path" : "~/GitHub/CE2R---Cloud-Computing/teste.R",
+    "project_path" : "teste.R",
+    "properties" : {
+        "cursorPosition" : "0,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
