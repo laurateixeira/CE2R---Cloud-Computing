@@ -1,4 +1,4 @@
-# Esse repositório foi criado em novembro de 2019 com o intúito de reunir todos os materiais e informações sobre Computação em Nuvem que foram pesquisados durante a disciplina de Computação em Estatística 2 - UNB
+**Esse repositório foi criado em novembro de 2019 com o intúito de reunir todos os materiais e informações sobre Computação em Nuvem que foram pesquisados durante a disciplina de Computação em Estatística 2 - UNB**
 
 Para tal trabalho foi feita uma simulação sobre crescimento populacional e ancestralidade que você pode rodar/testar. Como ele funciona inteiramente por meio de funções, é simples mudar os parâmetros (como média de filhos, população incial, etc) e verificar os efeitos no resultado final 
 
@@ -8,8 +8,11 @@ Qualquer dúvida estamos à disposição!
 Atenciosamente,
 
 Ana Clara Arrais
+
 Laura Cristina Teixeira
+
 Marcelo Pereira Fleury
+
 Rafael Clé
 
 
