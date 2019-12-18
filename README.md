@@ -2,7 +2,7 @@
 
 Para tal trabalho foi feita uma simulação (SimulacaoCloud.R) sobre crescimento populacional e ancestralidade que você pode rodar/testar. Como ele funciona por meio de funções, é simples mudar os parâmetros (como média de filhos, população inicial, etc) e verificar os efeitos no resultado final. 
 
-Além disso, você pode conferir os slides (cloud.html) com as principais instruções para dar os primeiros passos no mundo do Cloud Computing, de como criar sua conta até fazer seu código rodar no serviço, o qual demonstramos com a simulação.
+Além disso, você pode conferir os slides (slides_cloud.html) com as principais instruções para dar os primeiros passos no mundo do Cloud Computing, de como criar sua conta até fazer seu código rodar no serviço, o qual demonstramos com a simulação.
 
 Os tutorias sobre paralelização de código (Computacao_em_paralelo.html) e para estabelecer seu servidor de Rstudio do Google Cloud (Conexao_GoogleCloud.html) estão disponíveis, complementando os slides.
 
